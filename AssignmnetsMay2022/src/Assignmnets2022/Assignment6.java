@@ -1,5 +1,4 @@
 package Assignmnets2022;
-//Assignment 6:   Multiplication of two matrices (Use arrays and for loop)
 
 //Assignment 7:  JavaSE application to check whether the given String is Palindrome or not (use String only).
 
@@ -18,9 +17,5 @@ public class Assignment6
 			System.out.print(result[i] + " ");
 		}
 		
-//		for(int i =0; i < array1.length; i++) 
-//		{
-//			System.out.print(result[i] + " ");
-//		}
 	}
 }
